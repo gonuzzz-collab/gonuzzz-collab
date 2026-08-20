@@ -4,7 +4,7 @@
 
 I work on the design, evaluation, and governance of software systems built with extensive AI assistance, with a particular interest in keeping their evolution understandable, verifiable, and under human control.
 
-**GoNucleo IA** is the independent technology lab and working environment under which I develop projects, experiments, and products in this area.
+**GoNucleo IA** is the working identity of an independent technology lab under which I develop projects, experiments, and products in this area.
 
 ## Current focus
 
@@ -27,7 +27,7 @@ Professional transcription and review platform designed around privacy, data sov
 
 ### [Governor Agent](https://github.com/gonuzzz-collab/governor-agent)
 Governance agent for AI-assisted software changes, designed around explicit policy, evidence, and controlled human escalation.  
-**Open source · in development**
+**Open source · Apache 2.0 · active development**
 
 ## Portfolio
 
