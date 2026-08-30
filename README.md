@@ -17,17 +17,17 @@ I work on the design, evaluation, and governance of software systems built with 
 
 ## Selected work
 
+### [Governor Agent](https://github.com/gonuzzz-collab/governor-agent)
+Governance agent for AI-assisted software changes, designed around explicit authority, policy, evidence, and controlled human escalation.  
+**ALLOW · DENY · ESCALATE · Open source · Apache 2.0**
+
 ### [Living Memory](https://github.com/gonuzzz-collab/living-memory-public)
-Evidence-backed engineering memory for continuously evolving software.  
-**Public description · proprietary implementation**
+Local-first, evidence-backed technical memory for evolving software systems, with provenance, deterministic processing, traceability, and human authority.  
+**Public description · proprietary implementation · active product development**
 
 ### [Lexidiam](https://github.com/gonuzzz-collab/lexidiam-public)
 Professional transcription and review platform designed around privacy, data sovereignty, custody, and human validation.  
 **Public description · proprietary core**
-
-### [Governor Agent](https://github.com/gonuzzz-collab/governor-agent)
-Governance agent for AI-assisted software changes, designed around explicit policy, evidence, and controlled human escalation.  
-**Open source · Apache 2.0 · active development**
 
 ## Portfolio
 
