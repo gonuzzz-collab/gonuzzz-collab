@@ -6,6 +6,8 @@ I work on the design, evaluation, and governance of software systems built with 
 
 **GoNucleo IA** is the working identity of an independent technology lab under which I develop projects, experiments, and products in this area.
 
+**Official website:** https://gonucleo.cl
+
 ## Current focus
 
 - AI-assisted software architecture
@@ -39,6 +41,7 @@ For project context, engineering evolution, and selected public evidence:
 
 **Patricio Castillo (`@gonuzzz-collab`)**  
 **GoNucleo IA**  
+Website: https://gonucleo.cl  
 Email: [gonucleo.ia@gmail.com](mailto:gonucleo.ia@gmail.com)
 
 ---
