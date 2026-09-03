@@ -2,6 +2,8 @@
 
 **Architecture and governance of AI-assisted systems · Agents · Data sovereignty · Living documentation**
 
+[Leer en español](README.es.md)
+
 I work on the design, evaluation, and governance of software systems built with extensive AI assistance, with a particular interest in keeping their evolution understandable, verifiable, and under human control.
 
 **GoNucleo IA** is the working identity of an independent technology lab under which I develop projects, experiments, and products in this area.
